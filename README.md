@@ -1,4 +1,4 @@
-## Hi! I'm Christine 👋
+# Hi! I'm Christine 👋
 
 <!--
 **christineagatha/christineagatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Student at Washington University in St. Louis studying Computer Science with minors in Human-Computer Interaction, Electrical Engineering, and General Economics. Pursuing an MS in Computer Engineering and a Graduate Certificate in Cybersecurity Engineering.
 
-# 💻 Languages
+## 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -28,14 +28,14 @@ Student at Washington University in St. Louis studying Computer Science with min
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 
-# 🤖 AI / Data Science
+## 🤖 AI / Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-# ⚡ Hardware Systems
+## ⚡ Hardware Systems
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-CC0000?style=for-the-badge)
 ![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-iCE40-0066CC?style=for-the-badge)
@@ -44,13 +44,13 @@ Student at Washington University in St. Louis studying Computer Science with min
 ![PSpice](https://img.shields.io/badge/PSpice-CC0000?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# 🎨 Design / Frontend
+## 🎨 Design / Frontend
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
-# ⚙️ Tools / Platforms
+## ⚙️ Tools / Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge)
