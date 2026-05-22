@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Christine 👋
 
 <!--
 **christineagatha/christineagatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Student at Washington University in St. Louis studying Computer Science with minors in Human-Computer Interaction, Electrical Engineering, and General Economics. Pursuing an MS in Computer Engineering and a Graduate Certificate in Cybersecurity Engineering.
