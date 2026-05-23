@@ -20,6 +20,9 @@ Student at Washington University in St. Louis (WashU) studying Computer Science 
 Currently:
 - Undergraduate researcher working with the Unitree G1 Humanoid Robot @ WashU McKelvey School of Engineering's CSE department
 - Study abroad in Madrid, Spain (Fall 2026) @ Universidad Carlos III de Madrid (UC3M)
+- Teaching Assistant for courses in WashU McKelvey School of Engineering's CSE and ESE departments
+- Vice President of Hack WashU
+- Training for a full marathon 🏃‍♀️
 
 ## Tech Stack
 ### 💻 Languages
