@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 Student at Washington University in St. Louis studying Computer Science with minors in Human-Computer Interaction, Electrical Engineering, and General Economics. Pursuing an MS in Computer Engineering and a Graduate Certificate in Cybersecurity Engineering.
 
+## Tech Stack
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -71,13 +72,13 @@ Student at Washington University in St. Louis studying Computer Science with min
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge) -->
 <!-- ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge) -->
-
+<!-- -->
 <!--### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) -->
-
+<!-- -->
 <!-- ### 🖥️ Software
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
@@ -85,3 +86,7 @@ Student at Washington University in St. Louis studying Computer Science with min
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) -->
+
+## Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christinejiang1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christine.jiang@wustl.edu)
