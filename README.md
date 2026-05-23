@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Student at Washington University in St. Louis studying Computer Science with minors in Human-Computer Interaction, Electrical Engineering, and General Economics. Pursuing an MS in Computer Engineering and a Graduate Certificate in Cybersecurity Engineering.
+Student at Washington University in St. Louis (WashU) studying Computer Science with minors in Human-Computer Interaction, Electrical Engineering, and General Economics. Pursuing an MS in Computer Engineering and a Graduate Certificate in Cybersecurity Engineering.
 
 ## Tech Stack
 ### 💻 Languages
