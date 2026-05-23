@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 Student at Washington University in St. Louis (WashU) studying Computer Science with minors in Human-Computer Interaction, Electrical Engineering, and General Economics. Pursuing an MS in Computer Engineering and a Graduate Certificate in Cybersecurity Engineering.
 
+Currently:
+- Undergraduate researcher working with the Unitree G1 Humanoid Robot @ WashU McKelvey School of Engineering's CSE department
+- Study abroad in Madrid, Spain (Fall 2026) @ Universidad Carlos III de Madrid (UC3M)
+
 ## Tech Stack
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
